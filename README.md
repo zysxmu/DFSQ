@@ -88,24 +88,6 @@ refer to `metrics/run.sh` for more details.
 Download these model. Then use the commands above to obtain the reported results of the paper.
 
 
+##  Acknowledgments
 
-| Model                                            | Bit                                                                     
-|--------------------------------------------------|-----------------------------------------------------------------------------
-| EDSRx4 |                     [8](https://drive.google.com/file/d/1VveOu1t6XwPI4SxA3qoxVqXokRaUfnCY/view?usp=sharing)          
-|               |      [6](https://drive.google.com/file/d/1N68cmRryRuv02ya7s7iU0xKMGZHapuAP/view?usp=sharing)                                                                     
-|          |       [4](https://drive.google.com/file/d/1AEQb2-FDXGN_cJTi9lIzm-ZwMi420MtI/view?usp=sharing) 
-|               |      [3](https://drive.google.com/file/d/1isFtKm1g-s2ngClKDwAGEmKmv_K2haCT/view?)
-| EDSRx2 |                     [8](https://drive.google.com/file/d/1VveOu1t6XwPI4SxA3qoxVqXokRaUfnCY/view?usp=sharing)          
-|               |      [6](https://drive.google.com/file/d/1N68cmRryRuv02ya7s7iU0xKMGZHapuAP/view?usp=sharing)                                                                     
-|          |       [4](https://drive.google.com/file/d/1AEQb2-FDXGN_cJTi9lIzm-ZwMi420MtI/view?usp=sharing) 
-|               |      [3](https://drive.google.com/file/d/1isFtKm1g-s2ngClKDwAGEmKmv_K2haCT/view?)
-| RDNx4 |                     [8](https://drive.google.com/file/d/1VveOu1t6XwPI4SxA3qoxVqXokRaUfnCY/view?usp=sharing)          
-|               |      [6](https://drive.google.com/file/d/1N68cmRryRuv02ya7s7iU0xKMGZHapuAP/view?usp=sharing)                                                                     
-|          |       [4](https://drive.google.com/file/d/1AEQb2-FDXGN_cJTi9lIzm-ZwMi420MtI/view?usp=sharing) 
-|               |      [3](https://drive.google.com/file/d/1isFtKm1g-s2ngClKDwAGEmKmv_K2haCT/view?)
-| RDNx2 |                     [8](https://drive.google.com/file/d/1VveOu1t6XwPI4SxA3qoxVqXokRaUfnCY/view?usp=sharing)          
-|               |      [6](https://drive.google.com/file/d/1N68cmRryRuv02ya7s7iU0xKMGZHapuAP/view?usp=sharing)                                                                     
-|          |       [4](https://drive.google.com/file/d/1AEQb2-FDXGN_cJTi9lIzm-ZwMi420MtI/view?usp=sharing) 
-|               |      [3](https://drive.google.com/file/d/1isFtKm1g-s2ngClKDwAGEmKmv_K2haCT/view?)
-
-
+Code is implemented based on [DDTB](https://github.com/zysxmu/DDTB) and [PAMS](https://github.com/colorjam/PAMS)
