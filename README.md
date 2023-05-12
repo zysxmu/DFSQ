@@ -1,4 +1,4 @@
-# Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks
+# Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks [link](https://arxiv.org/abs/2305.05888)
 
 ## Dependence
 * Python 3.8
