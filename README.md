@@ -51,6 +51,7 @@ python main_setq.py --scale 4 \
 --w_bits 4 --a_bits 4 \
 --quant_file "edsr_4x_4bit" \
 --data_test "Set14+Set5+B100+Urban100" \
+--dir_data ./datasets
 
 ```
 The result will be saved in data/edsr_4x_4bit/
@@ -70,6 +71,7 @@ python main_setq.py --scale 4 \
 --pre_train path/fp_model --patch_size 192 \
 --data_test "Set14+Set5+B100+Urban100" \
 --quant_file "edsr_4x_4bit" --calib \
+--dir_data ./datasets
 ```
 
 
